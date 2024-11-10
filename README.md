@@ -5,7 +5,7 @@ This project aims to perform sentiment analysis on tweets related to ChatGPT, a 
 # Problem Statement
 
 -**Hard to understanding public perception:** The project aims to analyze the sentiment in tweets about ChatGPT to gain insights into how the public perceives and engages with this technology.
--**Informal and noisy language:** Sentiment analysis on social media is challenging due to the informal and noisy nature of the language used
+-**Informal and noisy language:** Sentiment analysis on social media is challenging due to the informal and noisy nature of the language used.
 
 # Objective 
 
